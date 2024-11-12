@@ -1,0 +1,20 @@
+/* logo.css */
+#nav_logo_container, .bakery_logo_footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+#nav_logo_container {
+    width: 50vw;
+    height: auto;
+    padding: 2%;
+    z-index: 2;
+    background-color: rgba(197, 227, 196, 0.1);
+    border: 2px solid white;
+    position: relative;
+}
+
+

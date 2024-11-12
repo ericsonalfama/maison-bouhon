@@ -1,0 +1,111 @@
+{
+    "products": [
+      {
+        "category": "Pains",
+        "cover": "https://images.pexels.com/photos/1775050/pexels-photo-1775050.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "items": [
+          {
+            "name": "Baguette",
+            "price": 1,
+            "image": "https://media.cnn.com/api/v1/images/stellar/prod/210707152632-baguette-grenier-a-pain-abbesses.jpg?q=w_1600,h_900,x_0,y_0,c_fill"
+          },
+          {
+            "name": "Tradition",
+            "price": 1.2,
+            "image": "https://www.boulangerieaixoise.fr/public/img/big/dc8077dccd73aa8221c856d798e11e74.jpg"
+          },
+          {
+            "name": "Céreales",
+            "price": 1.2,
+            "image": "https://static.actu.fr/uploads/2022/05/adobestock-136236941-960x640.jpeg"
+          },
+          {
+            "name": "Viennoise",
+            "price": 1.2,
+            "image": "https://boulangerie.org/wp-content/uploads/baguette-viennoise-scaled.jpg"
+          },
+          {
+            "name": "Campagne",
+            "price": 1.2,
+            "image": "https://mapatisserie.fr/wp-content/uploads/2020/06/recette-pain-de-campagne-20200603_201946-01-350x350.jpeg"
+          },
+          {
+            "name": "Maïs",
+            "price": 1.2,
+            "image": "https://boutique-artisane.fr/234-large_default/baguette-artisane.jpg"
+          }
+
+        ]
+      },
+      {
+        "category": "Gâteaux",
+        "cover": "https://images.pexels.com/photos/2612373/pexels-photo-2612373.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "items": [
+          {
+            "name": "Framboise",
+            "price": 3.5,
+            "image": "https://cdn.checkle.com/venuePhotos/-NyehKvv98g8Gs0QujpT/1883aa2c-c6fc-4e89-acf6-1a7134fe0084_550x550"
+          },
+          {
+            "name": "Opéra",
+            "price": 4,
+            "image": "https://i.pinimg.com/originals/02/42/fb/0242fb58db514a0798ff9dee9c03a0fa.jpg"
+          },
+          {
+            "name": "Forêt Noire",
+            "price": 3.5,
+            "image": "https://images.pexels.com/photos/27911708/pexels-photo-27911708/free-photo-of-festif-desert-sucre-boulangerie.jpeg?auto=compress&cs=tinysrgb&w=800"
+          },
+          {
+            "name": "Madagascar",
+            "price": 4,
+            "image": "https://www.etape-gourmande.fr/upload/produit/0003/220329-010326-le-madagascar-4-6-parts.jpg"
+          }
+        ]
+      },
+      {
+        "category": "Cookies",
+        "cover": "https://images.pexels.com/photos/4110541/pexels-photo-4110541.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "items": [
+          {
+            "name": "Chocolate Chips",
+            "price": 2,
+            "image": "https://images.pexels.com/photos/4110541/pexels-photo-4110541.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          },
+          {
+            "name": "Caramel Chips",
+            "price": 2,
+            "image": "https://www.mybakingaddiction.com/wp-content/uploads/2014/06/plated-salted-caramel-chocolate-chip-cookies-hero-500x500.jpg"
+          }
+        ]
+      },
+      {
+        "category": "Donuts",
+        "cover": "https://images.pexels.com/photos/3656118/pexels-photo-3656118.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "items": [
+          {
+            "name": "Glacé",
+            "price": 1.5,
+            "image": "https://images.pexels.com/photos/3656118/pexels-photo-3656118.jpeg?auto=compress&cs=tinysrgb&w=800"
+          }
+        ]
+      },
+      {
+        "category": "Tartes",
+        "cover": "https://images.pexels.com/photos/28122518/pexels-photo-28122518/free-photo-of-sucre-colore-petit-dejeuner-boulangerie.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "items": [
+          {
+            "name": "Tarte aux pommes",
+            "price": 3,
+            "image": "https://images.pexels.com/photos/28122518/pexels-photo-28122518/free-photo-of-sucre-colore-petit-dejeuner-boulangerie.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          }
+        ]
+      },
+      {
+        "category": "Quiches",
+        "cover": "https://images.pexels.com/photos/5419305/pexels-photo-5419305.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "items": []
+      }
+    ]
+  }
+  

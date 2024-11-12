@@ -1,0 +1,45 @@
+/* products.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Passions+Conflict&family=SUSE:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Passions+Conflict&family=SUSE:wght@100..800&family=Stalemate&display=swap');
+
+.current-products {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    background-color: #fff;
+    padding: 2%;
+    justify-content: center;
+}
+
+.product {
+    min-width: 160px;
+    height: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 120px;
+}
+
+.product img {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px 0 20px 0;
+    margin-bottom: 10px;
+    object-fit: cover;
+    border: 4px solid #ffffff50;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.product h4 {
+    font-size: 2.2em;
+    font-weight: lighter;
+    color: #cfc487;
+    margin: 10px 0 5px;
+    font-family: "Stalemate", cursive;
+}
+
+.product span {
+    font-size: 1em;
+    color: #000000;
+}

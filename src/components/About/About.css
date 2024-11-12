@@ -1,0 +1,36 @@
+/* presentation.css */
+.presentation {
+    padding: 0 2%;
+    text-align: center;
+    margin: 40px 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 25px;
+}
+
+.presentation-box {
+    padding: 30px;
+    align-content: center;
+}
+
+.presentation_title {
+    font-size: 2em;
+    font-weight: 700;
+    font-family: playfair display;
+    margin-bottom: 20px;
+}
+
+.presentation_text {
+    font-size: 16.05px;
+    line-height: 30.09px;
+    font-weight: 300;
+    margin-top: 26px;
+}
+
+.map iframe {
+    width: 100%; /* Ajusta o iframe para preencher 100% da largura do contêiner */
+    height: 300px; /* Define a altura do iframe */
+    border: 2px solid #ccc; /* Exemplo de borda */
+    border-radius: 8px; /* Bordas arredondadas */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para o iframe */
+  }
