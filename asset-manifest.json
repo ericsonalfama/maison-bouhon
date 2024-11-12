@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f91ba5a7.css",
+    "main.js": "./static/js/main.8a80e35b.js",
+    "static/js/453.288e9551.chunk.js": "./static/js/453.288e9551.chunk.js",
+    "static/media/pain-baguette.jpg": "./static/media/pain-baguette.e76d2ad6b246b191daba.jpg",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/pain-baguette-2.jpeg": "./static/media/pain-baguette-2.a9baa6db37b752eebf4b.jpeg",
+    "static/media/viennoiseries.webp": "./static/media/viennoiseries.9bb85b7905a21896730d.webp",
+    "static/media/pain.webp": "./static/media/pain.bbb745beb55c2c3ed4be.webp",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/Logo_Maison_Bohuon.jpg": "./static/media/Logo_Maison_Bohuon.af1de939d7a14f922f35.jpg",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "./index.html",
+    "main.f91ba5a7.css.map": "./static/css/main.f91ba5a7.css.map",
+    "main.8a80e35b.js.map": "./static/js/main.8a80e35b.js.map",
+    "453.288e9551.chunk.js.map": "./static/js/453.288e9551.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f91ba5a7.css",
+    "static/js/main.8a80e35b.js"
+  ]
+}
