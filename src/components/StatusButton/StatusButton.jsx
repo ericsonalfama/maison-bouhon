@@ -10,7 +10,7 @@ const StatusButton = () => {
       const now = new Date();
       const day = now.getDay();
       const hour = now.getHours();
-      setIsOpen(day >= 1 && day <= 6 && hour >= 6 && hour < 19);
+      setIsOpen(day >= 1 && day <= 6 && hour >= 6 && hour < 19.29);
     };
 
     checkStatus();
